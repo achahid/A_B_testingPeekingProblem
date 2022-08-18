@@ -1,2 +1,2 @@
 # A_B_testingPeekingProblem
-Here you can find the code for that explain the Peeking Problem within the frequentist approach to a/b testing. 
+Here you can find the code  that explains the Peeking Problem within the frequentist approach to A/B testing. 
